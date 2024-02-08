@@ -8,4 +8,4 @@ Além disso, este projeto nos permitiu mergulhar em conceitos cruciais de manipu
 ## Execução
 Para a execução do mesmo é necessário apenas um editor de código, com suporte a C++ devidamente configurado. Recomendo o tutorial que você pode seguir clicando [aqui](https://www.youtube.com/watch?v=pYcneq-aOaQ&t=324s) para a instalação do editor e configuração correta.
 
-Após isso basta clonar o repositório, abrir com seu editor a pasta com os arquivos e compilar o arquivo "6368_6330 100% pronto.cpp"
+Após isso basta clonar o repositório, abrir com seu editor a pasta com os arquivos e compilar o arquivo "6368_6330 100% pronto.cpp".
