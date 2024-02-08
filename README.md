@@ -1,5 +1,5 @@
 ## Sobre o Projeto:
-Este projeto marca uma etapa significativa na disciplina de Programação, onde mergulhamos na linguagem C para desenvolver uma versão do clássico jogo campo minado. Através da aplicação de conceitos fundamentais de programação, exploramos a lógica por trás deste desafio popular e entregamos uma implementação robusta e funcional.
+Este projeto marca uma etapa significativa na disciplina de Programação do curso de Sistemas de Informação da Universidade Federal de Viçosa à qual sou discente, onde mergulhamos na linguagem C para desenvolver uma versão do clássico jogo campo minado. Através da aplicação de conceitos fundamentais de programação, exploramos a lógica por trás deste desafio popular e entregamos uma implementação robusta e funcional.
 
 Utilizando os princípios de modularização, estruturas de controle, manipulação de arrays e alocação de memória dinâmica, criamos uma versão autêntica do campo minado em C. Cada célula do tabuleiro é cuidadosamente gerenciada, com minas distribuídas aleatoriamente e contagem de minas adjacente para cada célula revelada.
 
